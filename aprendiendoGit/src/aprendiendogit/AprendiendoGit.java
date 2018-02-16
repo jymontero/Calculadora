@@ -17,6 +17,10 @@ public class AprendiendoGit {
     public static void main(String[] args) {
         
         System.out.println("Aprndiendo GIT... para proyecto II");
+        
+        for(int i=0;i<8;i++){
+            System.out.println("Haciendo Commit distinto de PULL and FORK");
+        }
     }
     
 }
